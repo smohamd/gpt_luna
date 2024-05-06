@@ -1,4 +1,4 @@
 {
-  "command_disabled": true,
+  "command_disabled": false,
   "ban_message": "❌ تم إيقاف الأمر بواسطة الإدارة."
 }
